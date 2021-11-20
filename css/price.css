@@ -1,0 +1,49 @@
+{
+MARGIN:0;
+PADDING:0;
+}
+
+header{
+background-image:url("NEW IMAGE.jpg");
+background-size:cover;
+background-position:center;
+height:90vh;
+}
+ul{
+float:right;
+list-style-type:none;
+}
+ul li{
+display:inline-block;
+}
+ul li a{
+text-decoration: none;
+color: RED;
+padding: 4px 12px;
+border: 8px solid black;
+}
+ul li a:hover{
+background-color:cyan;
+color:pink;
+transition:0.8s EASE;
+}
+.TITLE h1{
+posITioN:AbsoLUTe;
+top:35%;
+left:25%;
+transFOrM:TrAnSLATE(-50%,--50%);
+}
+
+.title h1{
+COLOR:DARKBLUE;
+FoNT-SIZE:80px;
+border:10px solid PURPLE;
+}
+.TITLE h2{
+posITioN:AbsoLUTe;
+top:58%;
+left:30%;
+transFOrM:TrAnSLATE(-50%,--50%);
+FoNT-SIZE:30px;
+color:D90166;
+}
